@@ -1,7 +1,6 @@
 
 # RefreshRecyclerView
-> - RecyclerAdapter : 支持下拉刷新，上拉加载，添加Header，Footer
-> - MultiTypeAdapter : 针对复杂数据类型的数据列表
+> - RecyclerAdapter : 支持下拉刷新，上拉加载，各种动画定做。
 
 #效果图
 <img src="https://raw.githubusercontent.com/REBOOTERS/UltimateRefreshView/master/captures/listview_pull_down.gif"/>
