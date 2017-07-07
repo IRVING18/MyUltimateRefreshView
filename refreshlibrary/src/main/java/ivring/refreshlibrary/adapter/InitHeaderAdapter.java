@@ -10,7 +10,7 @@ import ivring.refreshlibrary.R;
 import static android.view.View.VISIBLE;
 
 /**
- * Created by engineer on 2017/4/26.
+ * Created by IVRING on 2017/4/26.
  */
 
 public class InitHeaderAdapter extends BaseHeaderAdapter {

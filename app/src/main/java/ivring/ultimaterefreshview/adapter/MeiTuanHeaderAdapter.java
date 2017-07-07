@@ -13,7 +13,7 @@ import ivring.ultimaterefreshview.R;
 import static android.content.ContentValues.TAG;
 
 /**
- * Created by engineer on 2017/4/30.
+ * Created by IVRING on 2017/4/30.
  */
 
 public class MeiTuanHeaderAdapter extends BaseHeaderAdapter {

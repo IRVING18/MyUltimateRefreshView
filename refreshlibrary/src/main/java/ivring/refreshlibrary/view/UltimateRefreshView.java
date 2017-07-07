@@ -24,7 +24,7 @@ import ivring.refreshlibrary.utils.MeasureTools;
 
 
 /**
- * Created by engineer on 2017/4/19.
+ * Created by IVRING on 2017/4/19.
  */
 
 public class UltimateRefreshView extends LinearLayout {

@@ -5,7 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 
 /**
- * Created by engineer on 2017/4/26.
+ * Created by IVRING on 2017/4/26.
  */
 
 public abstract class BaseHeaderAdapter {
